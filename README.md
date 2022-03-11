@@ -1,6 +1,6 @@
-# Themework Wordpress Free Theme
+# Themework Wordpress Free Theme - WordPress Starter Theme
 
-<h4>Themework is a fast, lightweight, fully customisable &amp; beautiful WordPress theme suitable for blog, personal portfolio, IT, business website and SEO Agency. Organizations and businesses have the ability to create dynamic website. The theme is responsive, Gutenberg compatible, SEO friendly. It is design bootstrap based template.</h4>
+<h3>Themework is a fast, lightweight, fully customisable &amp; beautiful WordPress theme suitable for blog, personal portfolio, IT, business website and SEO Agency. Organizations and businesses have the ability to create dynamic website. The theme is responsive, Gutenberg compatible, SEO friendly. It is design bootstrap based template.</h3>
 
 Ownere: https://www.rankwebdevelopers.com
 
@@ -19,7 +19,7 @@ Requires at least: 5.2
 Tested up to: 5.9
 Stable tag: 1.0.0
 
-Themework is a lightweight WordPress theme  - for IT Solutions, SEO Agency and Services Company built with a focus on speed, SEO and usability.
+<blockquote>Themework is a lightweight WordPress theme  - for IT Solutions, SEO Agency and Services Company built with a focus on speed, SEO and usability.</blockquote>
 
 == Description ==
 
@@ -49,6 +49,14 @@ All of our options can be found in the Customizer in 'Appearance > Customize'.
 = Does Themework have any widget areas? =
 Themework has up to 4 widget areas which you can add widgets to in Appearance > Widgets.
 
+<ul dir="auto">
+<li>Bootstrap 5</li>
+<li>Icon</li>
+<li>Fast load time</li>
+<li>SEO Friendly</li>
+<li>Fully Debug</li>
+</ul>
+
 
 == License ==
 
@@ -56,7 +64,6 @@ Themework WordPress Theme, Copyright 2022.
 Themework is licensed under the GNU General Public License v2 or later
 
 More details [here](http://www.gnu.org/licenses/gpl-2.0.html).
-
 
 
 = Bootstrap =
