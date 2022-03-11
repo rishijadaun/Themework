@@ -23,7 +23,7 @@ Themework is a lightweight WordPress theme  - for IT Solutions, SEO Agency and S
 
 == Description ==
 
-Themework is a lightweight WordPress theme built with a focus on speed and usability. Performance is important to us, which is why a fresh GeneratePress install adds less than 10kb (gzipped) to your page size.
+Themework is a lightweight WordPress theme built with a focus on speed and usability. Performance is important to us.
 
 
 Themework is fully responsive, uses valid HTML/CSS, Bootstrap 
