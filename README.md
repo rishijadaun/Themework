@@ -43,17 +43,12 @@ Learn more and check out our [powerful support] (https://www.rankwebdevelopers.c
 = Is Themework Free? =
 Yes! Themework is a free theme, and always will be.
 
-= Do you offer support? =
-Definitely. We offer support for the free theme in the [WordPress.org forums](https://wordpress.org/support/theme/themework).
-
 = Where can I find the theme options? =
 All of our options can be found in the Customizer in 'Appearance > Customize'.
 
 = Does Themework have any widget areas? =
-GeneratePress has up to 4 widget areas which you can add widgets to in Appearance > Widgets.
+Themework has up to 4 widget areas which you can add widgets to in Appearance > Widgets.
 
-= How can I make my site look like your screenshot? =
-If you want to replicate the screenshot you see on WordPress.org, please refer to [this article](https://rankwebdevelopers.com/news/demodata/).
 
 == License ==
 
